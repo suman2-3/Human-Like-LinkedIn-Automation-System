@@ -32,20 +32,20 @@ The system is designed to programmatically interact with LinkedIn in a way that 
 🧩 Project Architecture
 
 .
-├── auth/                   # Authentication & session handling
-├── search/                 # Profile search logic
-├── connection/             # Connection request automation
-├── messaging/              # Messaging logic
-├── stealth/                # Human-like behavior simulation
-├── config/                 # Environment & configuration management
-├── utils/                  # Browser helpers & logging
-├── database/               # Local state storage
-├── cmd/
-│ └── rod_example/         # Application entry point
-├── .env.example           # Environment variable template
-├── .gitignore
-├── go.mod
-└── README.md
+- ├── auth/                   # Authentication & session handling
+- ├── search/                 # Profile search logic
+- ├── connection/             # Connection request automation
+- ├── messaging/              # Messaging logic
+- ├── stealth/                # Human-like behavior simulation
+- ├── config/                 # Environment & configuration management
+- ├── utils/                  # Browser helpers & logging
+- ├── database/               # Local state storage
+- ├── cmd/
+- │ └── rod_example/         # Application entry point
+- ├── .env.example           # Environment variable template
+- ├── .gitignore
+- ├── go.mod
+- └── README.md
 
 ⚙️ Environment Setup
 
@@ -75,6 +75,7 @@ cd Human-Like-LinkedIn-Automation-System
 
 ▶️ **Watch the demo video:**  
 https://drive.google.com/drive/folders/1vCbOEdirFY4WFf8q6FPWk0DbIWP7NVL4
+
 
 
 
