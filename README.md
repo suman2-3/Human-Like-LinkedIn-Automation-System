@@ -69,10 +69,12 @@ git clone https://github.com/your-username/Human-Like-LinkedIn-Automation-System
 cd Human-Like-LinkedIn-Automation-System
 
 ▶️ How to Run
+
 -go mod tidy
 -go run ./cmd/rod_example
 
 ▶️ **Watch the demo video:**  
 https://drive.google.com/drive/folders/1vCbOEdirFY4WFf8q6FPWk0DbIWP7NVL4
+
 
 
