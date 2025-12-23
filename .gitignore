@@ -1,0 +1,13 @@
+# Environment variables
+.env
+
+# Session / auth
+session.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Go build
+/bin/
+/vendor/
