@@ -61,7 +61,7 @@ LOG_LEVEL=info
 
 - Go 1.20 or higher
 - Google Chrome (latest version)
-- 
+- Rod (Chrome DevTools Protocol automation)
 - A LinkedIn account (for testing purposes)
 -Clone the Repository
 git clone https://github.com/your-username/Human-Like-LinkedIn-Automation-System.git
@@ -74,4 +74,5 @@ cd Human-Like-LinkedIn-Automation-System
 
 ▶️ **Watch the demo video:**  
 https://drive.google.com/drive/folders/1vCbOEdirFY4WFf8q6FPWk0DbIWP7NVL4
+
 
