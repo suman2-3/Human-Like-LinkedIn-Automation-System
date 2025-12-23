@@ -11,22 +11,22 @@ The system is designed to programmatically interact with LinkedIn in a way that 
 
 ⚠️ Critical Disclaimer
 
--Educational & Technical Evaluation Purpose Only
--This project is created strictly for educational and technical assessment
--It demonstrates automation concepts in a controlled environment
--Automated interaction with LinkedIn may violate LinkedIn’s Terms of Service
--This code must not be used in production environments
+- Educational & Technical Evaluation Purpose Only
+- This project is created strictly for educational and technical assessment
+- It demonstrates automation concepts in a controlled environment
+- Automated interaction with LinkedIn may violate LinkedIn’s Terms of Service
+- This code must not be used in production environments
 
 
 🎯 Project Objective
 
--The primary objective of this assignment is to demonstrate:
--Advanced browser automation using Go
--Human-like behavior simulation to reduce automation signatures
--Clean and maintainable modular architecture
--Awareness and handling of bot-detection mechanisms
--Secure configuration and credential management
--This project evaluates both technical correctness and engineering quality.
+- The primary objective of this assignment is to demonstrate:
+- Advanced browser automation using Go
+- Human-like behavior simulation to reduce automation signatures
+- Clean and maintainable modular architecture
+- Awareness and handling of bot-detection mechanisms
+- Secure configuration and credential management
+-T his project evaluates both technical correctness and engineering quality.
 
 
 🧩 Project Architecture
@@ -49,7 +49,7 @@ The system is designed to programmatically interact with LinkedIn in a way that 
 
 ⚙️ Environment Setup
 
--.env.example
+- .env.example
 LINKEDIN_EMAIL=your_email_here
 LINKEDIN_PASSWORD=your_password_here
 HEADLESS=false
@@ -63,7 +63,7 @@ LOG_LEVEL=info
 - Google Chrome (latest version)
 - Rod (Chrome DevTools Protocol automation)
 - A LinkedIn account (for testing purposes)
--Clone the Repository
+- Clone the Repository
 git clone https://github.com/your-username/Human-Like-LinkedIn-Automation-System.git
 
 cd Human-Like-LinkedIn-Automation-System
@@ -75,6 +75,7 @@ cd Human-Like-LinkedIn-Automation-System
 
 ▶️ **Watch the demo video:**  
 https://drive.google.com/drive/folders/1vCbOEdirFY4WFf8q6FPWk0DbIWP7NVL4
+
 
 
 
