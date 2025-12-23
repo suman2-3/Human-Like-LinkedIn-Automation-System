@@ -65,6 +65,7 @@ LOG_LEVEL=info
 - A LinkedIn account (for testing purposes)
 -Clone the Repository
 git clone https://github.com/your-username/Human-Like-LinkedIn-Automation-System.git
+
 cd Human-Like-LinkedIn-Automation-System
 
 ▶️ How to Run
@@ -73,3 +74,4 @@ cd Human-Like-LinkedIn-Automation-System
 
 ▶️ **Watch the demo video:**  
 https://drive.google.com/drive/folders/1vCbOEdirFY4WFf8q6FPWk0DbIWP7NVL4
+
